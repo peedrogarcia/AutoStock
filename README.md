@@ -27,7 +27,7 @@ AutoStock automatiza este proceso eliminando la intervención manual.
 
 ## 🏆 Propiedad intelectual
 
-El sistema cuenta con una patente registrada a nombre de PEDRO LUIS GARCIA CARMONA:
+El sistema cuenta con una patente publica registrada a nombre de PEDRO LUIS GARCIA CARMONA:
 
 Número de patente: ES1327173
 
@@ -98,9 +98,9 @@ Proyecto funcional en desarrollo / validación.
 
 * Aplicación (Play Store / App Store):
 
-* [App Store: ](https://apps.apple.com/es/app/auto-stock/id6710699044?l=en-GB)
+* [Descargar en App Store ](https://apps.apple.com/es/app/auto-stock/id6710699044?l=en-GB)
 
-* [Google Play Store: ](https://play.google.com/store/apps/details?id=com.autostock.autostock.app)
+* [Descargar en Google Play Store ](https://play.google.com/store/apps/details?id=com.autostock.autostock.app)
 
 ---
 

@@ -21,15 +21,6 @@ Fecha de Publicacion 13/01/2026
 
 ---
 
-## Cómo funciona el sistema
-
-1. Los productos son identificados mediante el código de barras estándar del fabricante
-2. Un dispositivo inteligente escanea los productos desechados
-3. La información se envía a la nube en tiempo real
-4. El sistema actualiza automáticamente el inventario del negocio
-
----
-
 ## Mi rol en el proyecto
 
 Desarrollo completo del sistema:
@@ -40,6 +31,15 @@ Desarrollo completo del sistema:
 * Diseño del flujo de datos en tiempo real
 * Desarrollo del software del dispositivo IoT en Python
 * Diseño del sistema de comunicación entre hardware y nube
+
+---
+
+## Cómo funciona el sistema
+
+1. Los productos son identificados mediante el código de barras estándar del fabricante
+2. Un dispositivo inteligente escanea los productos desechados
+3. La información se envía a la nube en tiempo real
+4. El sistema actualiza automáticamente el inventario del negocio
 
 ---
 

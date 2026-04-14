@@ -14,10 +14,10 @@ El sistema permite actualizar el stock en tiempo real mediante un dispositivo f�
 
 ## 💡 Propiedad intelectual
 
-El sistema cuenta con una patente publica registrada a nombre de PEDRO LUIS GARCIA CARMONA:
+El sistema cuenta con una patente publica registrada a nombre de PEDRO LUIS GARCIA CARMONA
 
 Número de patente: ES1327173  
-Fecha de Publicacion 13/01/2026
+Fecha de Publicacion: 13/01/2026
 
 ---
 

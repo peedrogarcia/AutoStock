@@ -86,12 +86,14 @@ La aplicación permite:
 * Sincronización automática con el sistema físico
 * Generacion automatica de pedidos a proveedores
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6ea1f99d-a73f-49fd-bcad-23e5546d8cdd" width="200"/>
-  <img src="https://github.com/user-attachments/assets/6e257e4b-19d6-44aa-a418-eee1edd3b161" width="200"/>
-  <img src="https://github.com/user-attachments/assets/43cb7723-7601-4f74-87d9-6ad1a2dca946" width="200"/>
-  <img src="https://github.com/user-attachments/assets/6158d55b-fca7-4371-8be3-4d5e3933ee2f" width="200"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6ea1f99d-a73f-49fd-bcad-23e5546d8cdd" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6e257e4b-19d6-44aa-a418-eee1edd3b161" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/43cb7723-7601-4f74-87d9-6ad1a2dca946" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6158d55b-fca7-4371-8be3-4d5e3933ee2f" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 

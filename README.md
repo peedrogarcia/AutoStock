@@ -34,7 +34,7 @@ Fecha de Publicacion 13/01/2026
 
 Desarrollo completo del sistema:
 
-* Diseño y desarrollo de la aplicación móvil (Javascript con ReactNative)
+* Diseño y desarrollo de la aplicación móvil (Javascript con React Native)
 * Implementación del backend serverless en AWS
 * Integración con servicios cloud (AWS Lambda)
 * Diseño del flujo de datos en tiempo real

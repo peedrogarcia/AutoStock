@@ -29,19 +29,6 @@ Número de patente: ES1327173
 
 ---
 
-## Problema que resuelve
-
-La gestión manual de inventario en hostelería suele generar:
-
-* Errores humanos en el recuento de productos
-* Pérdida de control sobre el stock real
-* Falta de trazabilidad del consumo
-* Desajustes entre ventas y existencias
-
-AutoStock automatiza este proceso eliminando la intervención manual.
-
----
-
 ## Mi rol en el proyecto
 
 Desarrollo completo del sistema:
@@ -52,27 +39,6 @@ Desarrollo completo del sistema:
 * Diseño del flujo de datos en tiempo real
 * Desarrollo del software del dispositivo IoT en Python
 * Diseño del sistema de comunicación entre hardware y nube
-
----
-
-## Arquitectura
-
-El sistema está basado en una arquitectura serverless en la nube:
-
-* Backend en AWS
-* Funciones Lambda para procesamiento de eventos
-* Comunicación en tiempo real entre dispositivo, aplicacion movil y backend
-
----
-
-## Hardware IoT
-
-El sistema físico está basado en:
-
-* Dispositivo embebido
-* Programación en Python
-* Sistema de lectura de códigos de barras
-* Integración con el backend cloud
 
 ---
 
@@ -94,6 +60,47 @@ La aplicación permite:
     <td><img src="https://github.com/user-attachments/assets/6158d55b-fca7-4371-8be3-4d5e3933ee2f" width="100%"/></td>
   </tr>
 </table>
+
+---
+
+## Hardware IoT
+
+El sistema físico está basado en:
+
+* Dispositivo embebido
+* Programación en Python
+* Sistema de lectura de códigos de barras
+* Integración con el backend cloud
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0c0fa758-fdf7-4e8f-9273-0c95d1cd2aa5" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/da9147c2-a358-458c-b872-23fde298867d" width="100%"/></td>
+  </tr>
+</table>
+
+---
+
+## Problema que resuelve
+
+La gestión manual de inventario en hostelería suele generar:
+
+* Errores humanos en el recuento de productos
+* Pérdida de control sobre el stock real
+* Falta de trazabilidad del consumo
+* Desajustes entre ventas y existencias
+
+AutoStock automatiza este proceso eliminando la intervención manual.
+
+---
+
+## Arquitectura
+
+El sistema está basado en una arquitectura serverless en la nube:
+
+* Backend en AWS
+* Funciones Lambda para procesamiento de eventos
+* Comunicación en tiempo real entre dispositivo, aplicacion movil y backend
 
 ---
 
